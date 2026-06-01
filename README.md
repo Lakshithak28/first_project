@@ -1,2 +1,2 @@
 # first_project
-Crop detection 
+Student Management System
